@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>HANGMAN</title>
+    <meta charset="utf-8">
+    <link rel='stylesheet' href='hangman.css'>
+    <link rel='stylesheet' href='bootstrap.min.css'>
+</head>
+<body>
+    <div id="game" class="container">
+        <div id="" class="row">
+            <div class="col-md-4"><div id="picture"><img src="hangman0.png" id="pictureCurrent"></div></div>
+            <div class="col-md-8">
+              <button id="start">Start</button>
+                <div class="row">
+                    <div class="col-md-12" id="question">Question</div>
+                    <div class="col-md-1"id="time"></div>
+                    <div class="col-md-8" id="answer">
+                        <div class="row" id="writeAnswerHere"></div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12" id="letter"><div id="letters">
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <script src="hangman.js"></script>
+    <script>
+        document.getElementById("time").innerHTML = "Time";
+    </script>
+</body>
+</html>

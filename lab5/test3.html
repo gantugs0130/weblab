@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <title>This is a test page</title>
+</head>
+<body>
+ <span>Below is a table</span>
+ <table border = 1px;>
+ <tr>
+ <td>Row 1 Cell 1</td>
+ <td>Row 1 Cell 2</td>
+ </tr>
+ <tr>
+ <td>Row 2 Cell 1</td>
+ <td>Row 1 Cell 2</td>
+ </tr>
+ </table>
+ <table border = 1px;>
+ <tr>
+ <td class = "a">Row 1 Cell 1</td>
+ <td>Row 1 Cell 2</td>
+ </tr>
+ <tr>
+ <td class = "a">Row 2 Cell 1</td>
+ <td>Row 1 Cell 2</td>
+ </tr>
+ </table>
+ <script>
+ var tdElements = document.getElementsByClassName("a");
+ var length = tdElements.length;
+ tdElements[1].style.backgroundColor = "red";
+
+</script>
+</body>
+</html>

@@ -1,0 +1,18 @@
+h1{color: darkblue; font-size: 3em; margin-left: 7em; margin-bottom: -10px; margin-top: 10px;}
+table{margin: 0 auto; margin-top: 100px; border-collapse: collapse;}
+#button{margin: 50px 0 0 650px; color: purple; font-size: 25px;}
+label{margin: 170px 0 0 0px; color: blue; font-family: monospace; font-size: 50px;}
+.container{margin-top: 30px; margin-left: 20px;}
+#picture{height: 300px; width: 400px; margin-left: 100px; }
+#health{height: 100px; width: 410px; margin-top: -100px; margin-left: 30px;}
+#healthp{height: 80px; width: 80px; margin-right: 2px;}
+#question{height: 100px; width: 800px; margin-left: 150px; color: #20B2AA; font-family: Comic Sans MS; font-size: 40px; padding: 3px 2px 0px 30px;}
+#answer{height: 100px; width: 800px; margin-top: 20px; }
+#letter{height: 200px; width: 800px; margin-top: 20px; margin-left: 150px; }
+#letters{padding: 0 auto;}
+#letter button{height: 67px; width: 67px; background-color: #DC143C; border-radius: 20px; color:white; font-family: Comic Sans MS; font-size: 35px;}
+div#time{height: 67px; width: 100px; background-color: #DB7093; border-radius: 20px; color:white; font-family: Comic Sans MS; font-size: 25px; padding: 9px; margin-right: 40px; margin-left: 150px; margin-top: 20px; padding: 10px 2px 0px 2px; }
+button#start{height: 67px; width: 67px; background-color: #FFD700; border-radius: 20px; color:red; font-family: Comic Sans MS; font-size: 20px;}
+button#undo{height: 67px; width: 67px; background-color: #191970; border-radius: 20px; color:#DA70D6; font-family: Comic Sans MS; font-size: 20px;}
+div#answers{height: 67px; width: 67px; background-color: #E53279; border-radius: 20px; color:white; font-family: Comic Sans MS; font-size: 40px;  padding: 3px 2px 0px 17px; margin-left: 10px; }
+.hole{height: 67px; width: 67px; background-color: #E53279; border-radius: 20px; color:white; font-family: Comic Sans MS; font-size: 40px;  padding: 3px 2px 0px 17px; margin-left: 10px; opacity: 0.5;}

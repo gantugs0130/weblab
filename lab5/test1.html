@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <title>Connecting Events Using HTML Attributes</title>
+</head>
+<body>
+ <button type="button" onclick="unlink()">dgsdf</button>
+   <span id ="aa"> sdfa</span>
+ <script>
+ var i = 0;
+ var a = setInterval(link, 1000);
+ function link() {
+   var x=document.getElementById("aa");
+   x.innerHTML = i;
+   i++;
+ }
+function unlink(){
+  clearInterval(a);
+}
+ </script>
+</body>
+</html>

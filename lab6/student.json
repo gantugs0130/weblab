@@ -1,0 +1,50 @@
+{
+	"S001": {
+		"Name": "Gantugs",
+		"SisiId": "S001",
+		"Program": "IT",
+		"lesson": [
+			"L001"
+		]
+	},
+	"S002": {
+		"Name": "Samdan",
+		"SisiId": "S002",
+		"Program": "IT",
+		"lesson": [
+			"L001"
+		]
+	},
+	"S003": {
+		"Name": "Bayraa",
+		"SisiId": "S003",
+		"Program": "Math",
+		"lesson": [
+            "L002"
+        ]
+    },
+    "S004": {
+        "Name": "Azaa",
+		"SisiId": "S004",
+		"Program": "Pizik",
+		"lesson": [
+            "L004"
+        ]
+    },
+    "S005": {
+        "Name": "Azzaya",
+		"SisiId": "S005",
+		"Program": "Pizik",
+		"lesson": [
+            "L006"
+        ]
+    },
+    "S006": {
+        "Name": "Saruul",
+		"SisiId": "S006",
+		"Program": "Math",
+		"lesson": [
+            "L002"
+        ]
+    }
+}

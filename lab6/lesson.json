@@ -1,0 +1,38 @@
+{
+	"L001": {
+		"Name": "OOP",
+		"LessonIndex": "L001",
+		"Credit": 4,
+		"Seat": 3
+	},
+	"L002": {
+		"Name": "Math",
+		"LessonIndex": "L002",
+		"Credit": 4,
+		"Seat": 3
+	},
+	"L003": {
+		"Name": "Data structure",
+		"LessonIndex": "L003",
+		"Credit": 4,
+		"Seat": 3
+	},
+	"L004": {
+		"Name": "Web",
+		"LessonIndex": "L004",
+		"Credit": 4,
+		"Seat": 3
+    },
+    "L005": {
+		"Name": "Pizik",
+		"LessonIndex": "L005",
+		"Credit": 4,
+		"Seat": 3
+    },
+    "L006": {
+		"Name": "Graph",
+		"LessonIndex": "L006",
+		"Credit": 4,
+		"Seat": 3
+	}
+}
